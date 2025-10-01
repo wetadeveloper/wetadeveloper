@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Weta  
+# 👋 Merhaba, ben Furkan  
 
 💻 Yazılım geliştirmeye tutkuyla bağlı bir geliştiriciyim.  
 🚀 Flutter, Firebase ve modern yazılım mimarileri üzerine çalışıyorum.  
