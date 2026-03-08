@@ -25,11 +25,12 @@ Kullanıcı dostu, ölçeklenebilir mobil uygulamalar ve modern yazılım mimari
 | Proje | Teknoloji | Platform / Durum |
 | :--- | :--- | :--- |
 | **[Ne Olsun](https://apps.apple.com/tr/app/ne-olsun/id6756015426?l=tr)** | Flutter, Supabase | ✅ App Store (Yayında) |
-| **[Ne Olsun](https://play.google.com/store/apps/details?id=com.wetadeveloper.neolsun)** | Flutter, Supabase | 🚧 Google Play (Kapalı Beta) |
+| **[Ne Olsun](https://play.google.com/store/apps/details?id=com.neolsun.app)** | Flutter, Supabase | 🚧 Google Play (Kapalı Beta) |
 | **[Selamet Turizm](https://apps.apple.com/tr/app/selamet-turizm/id6755481836?l=tr)** | Flutter, Rest API | ✅ App Store (Yayında) |
 | **[Selamet Turizm](https://play.google.com/store/apps/details?id=com.selametturizm.app)** | Flutter, Rest API | ✅ Google Play (Yayında) |
 | **[Mail Sender Smart Edition](https://apps.apple.com/tr/app/mail-sender-smart-edition/id6758946829?l=tr)** | Flutter, Django, Kubernetes | ✅ App Store (Yayında) |
 | **Mail Sender Smart Edition** | Flutter, Django, Kubernetes | 🚧 Google Play (Kapalı Beta) |
+| **Rezonans** | Flutter, Supabase | 🚧 App Store (Kapalı Beta) |
 | **Rezonans** | Flutter, Supabase | 🚧 Google Play (Kapalı Beta) |
 
 > 🤝 **Android Tester Aranıyor!** Play Store beta testleri için 12 tester gerekiyor. Katılmak isteyenler: [furkanpala404@gmail.com](mailto:furkanpala404@gmail.com)
