@@ -29,7 +29,7 @@ Kullanıcı dostu, ölçeklenebilir mobil uygulamalar ve modern yazılım mimari
 | **[Selamet Turizm](https://apps.apple.com/tr/app/selamet-turizm/id6755481836?l=tr)** | Flutter, Rest API | ✅ App Store (Yayında) |
 | **[Selamet Turizm](https://play.google.com/store/apps/details?id=com.selametturizm.app)** | Flutter, Rest API | ✅ Google Play (Yayında) |
 | **[Mail Sender Smart Edition](https://apps.apple.com/tr/app/mail-sender-smart-edition/id6758946829?l=tr)** | Flutter, Django, Kubernetes | ✅ App Store (Yayında) |
-| **Mail Sender Smart Edition** | Flutter, Django, Kubernetes | 🚧 Google Play (Kapalı Beta) |
+| **[Mail Sender Smart Edition](https://play.google.com/store/apps/details?id=com.mailsendersmartedition.enpa&hl=tr)** | Flutter, Django, Kubernetes | ✅ Google Play (Yayında) |
 | **[Rezonans](https://apps.apple.com/tr/app/rezonans/id6756178304?l=tr)** | Flutter, Supabase | ✅ App Store (Yayında) |
 | **Rezonans** | Flutter, Supabase | 🚧 Google Play (Kapalı Beta) |
 
