@@ -31,7 +31,7 @@ Kullanıcı dostu, ölçeklenebilir mobil uygulamalar ve modern yazılım mimari
 | **[Mail Sender Smart Edition](https://apps.apple.com/tr/app/mail-sender-smart-edition/id6758946829?l=tr)** | Flutter, Django, Kubernetes | ✅ App Store (Yayında) |
 | **[Mail Sender Smart Edition](https://play.google.com/store/apps/details?id=com.mailsendersmartedition.enpa&hl=tr)** | Flutter, Django, Kubernetes | ✅ Google Play (Yayında) |
 | **[Rezonans](https://apps.apple.com/tr/app/rezonans/id6756178304?l=tr)** | Flutter, Supabase | ✅ App Store (Yayında) |
-| **Rezonans** | Flutter, Supabase | 🚧 Google Play (Kapalı Beta) |
+| **[Rezonans](https://play.google.com/store/apps/details?id=app.rezonans)** | Flutter, Supabase | 🚧 Google Play (Kapalı Beta) |
 
 
 > 🤝 **Android Tester Aranıyor!** Play Store beta testleri için 12 tester gerekiyor. Katılmak isteyenler: [furkanpala404@gmail.com](mailto:furkanpala404@gmail.com)
