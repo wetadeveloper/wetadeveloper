@@ -1,12 +1,20 @@
+<div align="center">
+
 # 👋 Merhaba, ben Furkan
 
 🚀 **Mobil Uygulama Geliştirici**
 
 Kullanıcı dostu, ölçeklenebilir mobil uygulamalar ve modern yazılım mimarileri üzerine çalışıyorum.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-pala-9086191b0/)
+[![Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkanpala404@gmail.com)
+
+</div>
+
 ---
 
 ## 🛠️ Kullandığım Teknolojiler
+
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -20,26 +28,30 @@ Kullanıcı dostu, ölçeklenebilir mobil uygulamalar ve modern yazılım mimari
 
 ---
 
-## 🚀 Projeler
+## 📱 Uygulamalarım
 
-| Proje | Teknoloji | Platform / Durum |
-| :--- | :--- | :--- |
-| **[Ne Olsun](https://apps.apple.com/tr/app/ne-olsun/id6756015426?l=tr)** | Flutter, Supabase | ✅ App Store (Yayında) |
-| **[Ne Olsun](https://play.google.com/store/apps/details?id=com.neolsun.app)** | Flutter, Supabase | 🚧 Google Play (Kapalı Beta) |
-| **[Selamet Turizm](https://apps.apple.com/tr/app/selamet-turizm/id6755481836?l=tr)** | Flutter, Rest API | ✅ App Store (Yayında) |
-| **[Selamet Turizm](https://play.google.com/store/apps/details?id=com.selametturizm.app)** | Flutter, Rest API | ✅ Google Play (Yayında) |
-| **[Mail Sender Smart Edition](https://apps.apple.com/tr/app/mail-sender-smart-edition/id6758946829?l=tr)** | Flutter, Django, Kubernetes | ✅ App Store (Yayında) |
-| **[Mail Sender Smart Edition](https://play.google.com/store/apps/details?id=com.mailsendersmartedition.enpa&hl=tr)** | Flutter, Django, Kubernetes | ✅ Google Play (Yayında) |
-| **[Rezonans](https://apps.apple.com/tr/app/rezonans/id6756178304?l=tr)** | Flutter, Supabase | ✅ App Store (Yayında) |
-| **[Rezonans](https://play.google.com/store/apps/details?id=app.rezonans)** | Flutter, Supabase | ✅ Google Play (Yayında) |
-| **[Tela](https://apps.apple.com/us/app/tela-çift-soru-oyunu/id6780813070)** | Flutter, Supabase | 🚧 App Store (Kapalı Beta) |
-| **[Tela](https://play.google.com/store/apps/details?id=com.wetadeveloper.tela)** | Flutter, Supabase |🚧 Google Play (Kapalı Beta) |
+| Proje | Açıklama | Teknoloji | Mağazalar | GitHub |
+| :--- | :--- | :--- | :--- | :---: |
+| 🎵 **Rezonans** | Sesle tanışma — gerçek bağlantılar kur | Flutter, Supabase | [![App Store](https://img.shields.io/badge/App_Store-Yay%C4%B1nda-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/tr/app/rezonans/id6756178304?l=tr) [![Google Play](https://img.shields.io/badge/Google_Play-Yay%C4%B1nda-01875F?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=app.rezonans) | [📂](https://github.com/wetadeveloper/rezonans-match-app) |
+| 🎯 **Ne Olsun** | Arkadaşlarla ortak karar ruleti | Flutter, Supabase | [![App Store](https://img.shields.io/badge/App_Store-Yay%C4%B1nda-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/tr/app/ne-olsun/id6756015426?l=tr) [![Google Play](https://img.shields.io/badge/Google_Play-Kapal%C4%B1_Beta-F5A623?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.neolsun.app) | [📂](https://github.com/wetadeveloper/ne-olsun-app) |
+| 🚌 **Selamet Turizm** | Otobüs firması mobil uygulaması | Flutter, REST API | [![App Store](https://img.shields.io/badge/App_Store-Yay%C4%B1nda-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/tr/app/selamet-turizm/id6755481836?l=tr) [![Google Play](https://img.shields.io/badge/Google_Play-Yay%C4%B1nda-01875F?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.selametturizm.app) | — |
+| 📧 **Mail Sender Smart Edition** | Akıllı toplu e-posta gönderimi | Flutter, Django, Kubernetes | [![App Store](https://img.shields.io/badge/App_Store-Yay%C4%B1nda-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/tr/app/mail-sender-smart-edition/id6758946829?l=tr) [![Google Play](https://img.shields.io/badge/Google_Play-Yay%C4%B1nda-01875F?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mailsendersmartedition.enpa&hl=tr) | — |
+| 🃏 **Tela** | Çift soru oyunu | Flutter, Supabase | [![App Store](https://img.shields.io/badge/App_Store-Kapal%C4%B1_Beta-F5A623?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/tela-çift-soru-oyunu/id6780813070) [![Google Play](https://img.shields.io/badge/Google_Play-Kapal%C4%B1_Beta-F5A623?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.wetadeveloper.tela) | [📂](https://github.com/wetadeveloper/tela) |
 
 > 🤝 **Android Tester Aranıyor!** Play Store beta testleri için 12 tester gerekiyor. Katılmak isteyenler: [furkanpala404@gmail.com](mailto:furkanpala404@gmail.com)
 
 ---
 
+## 🧪 Deneysel Projeler
+
+| Proje | Açıklama | Teknoloji |
+| :--- | :--- | :--- |
+| 🎧 **[vibecraft](https://github.com/wetadeveloper/vibecraft)** | Prompt tabanlı müzik vibe üreticisi — ruh halini tarif et, kapak + parça üretsin | Dart |
+
+---
+
 ## 📊 GitHub İstatistikleri
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wetadeveloper&show_icons=true&theme=tokyonight&count_private=true)
@@ -49,16 +61,6 @@ Kullanıcı dostu, ölçeklenebilir mobil uygulamalar ve modern yazılım mimari
 
 ---
 
-## 🌐 Benimle İletişime Geç
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkan-pala-9086191b0/)
-[![Mail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:furkanpala404@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-✨ <i>“Yazılım sadece kod değil, düşünce biçimidir.”</i>
+✨ <i>"Yazılım sadece kod değil, düşünce biçimidir."</i>
 </div>
